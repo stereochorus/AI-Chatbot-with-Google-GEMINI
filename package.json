@@ -1,0 +1,26 @@
+{
+  "name": "ai-chatbot-with-google-gemini",
+  "version": "1.0.0",
+  "description": "Chatbot menggunakan model GEMINI google",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stereochorus/AI-Chatbot-with-Google-GEMINI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stereochorus/AI-Chatbot-with-Google-GEMINI/issues"
+  },
+  "homepage": "https://github.com/stereochorus/AI-Chatbot-with-Google-GEMINI#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
+  }
+}
